@@ -35,10 +35,10 @@ h1 {
 .main {
     flex: 3;
     padding: 2%;
-    background-color: #b79d94;    
+    background-color: #67697c;    
     font-family: Verdana;
     font-size: 18px;
-    color:#253d5b;
+    color:#b79d94;
 }
 
 .sidebar {
@@ -48,4 +48,12 @@ h1 {
     font-family: Verdana;
     font-size: 18px;
     color:#253d5b;
+}
+
+.smallText {
+    flex: 1;
+    color:#253d5b;
+    font-size: 18px;
+    font-family: Verdana;
+    text-align: center;
 }
